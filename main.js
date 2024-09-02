@@ -1,3 +1,4 @@
-const team=["Siva", "banu"]
+
+const team=["Siva","akhil","Kaushik", "banu"]
 
 console.log(team)
