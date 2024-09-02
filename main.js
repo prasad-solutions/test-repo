@@ -1,3 +1,3 @@
-const team=["Siva","akhil","banu","muqeet","mohith","koushik"]
+const teammembers=["Siva","akhil"]
 
-console.log(team)
+console.log(teammembers)
